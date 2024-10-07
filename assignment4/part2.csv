@@ -1,0 +1,11 @@
+Model,Accuracy,Precision,Recall,F1-score,AUC
+LogisticRegression(),0.81,0.67,0.36,0.47,0.65
+KNeighborsClassifier(),0.80,0.60,0.44,0.51,0.67
+DecisionTreeClassifier(),0.77,0.51,0.53,0.52,0.69
+RandomForestClassifier(),0.81,0.62,0.51,0.56,0.71
+AdaBoostClassifier(),0.84,0.79,0.41,0.54,0.69
+GradientBoostingClassifier(),0.84,0.78,0.45,0.57,0.71
+SVC(),0.82,0.77,0.35,0.48,0.66
+MLPClassifier(),0.82,0.71,0.43,0.54,0.69
+GaussianNB(),0.80,0.75,0.23,0.35,0.60
+LinearDiscriminantAnalysis(),0.80,0.66,0.32,0.43,0.63
